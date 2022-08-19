@@ -1,0 +1,25 @@
+.widget-container{
+    margin: 0px 500px 200px 200px;
+
+   
+   
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 80px;
+   
+    border-style: hidden;
+    border-radius: 10%;
+   
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(198, 218, 236));
+    
+   
+}
+.logo{
+    margin-top: 20px;
+    margin-bottom:-50px;
+    width: 50%;
+}
+.okta-sign-in-widget{
+    width: 150%;
+    align-items: center;
+}
